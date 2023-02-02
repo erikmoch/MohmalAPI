@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MohmalAPI", "MohmalAPI\MohmalAPI.csproj", "{DB8425C2-565D-44F9-83F0-15766675E3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MohmalAPI.Test", "MohmalAPI.Test\MohmalAPI.Test.csproj", "{D2D8F091-7553-4B10-8450-CCCBCD7FA455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB8425C2-565D-44F9-83F0-15766675E3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8425C2-565D-44F9-83F0-15766675E3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8425C2-565D-44F9-83F0-15766675E3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8425C2-565D-44F9-83F0-15766675E3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D8F091-7553-4B10-8450-CCCBCD7FA455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D8F091-7553-4B10-8450-CCCBCD7FA455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D8F091-7553-4B10-8450-CCCBCD7FA455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D8F091-7553-4B10-8450-CCCBCD7FA455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CAD7A36-5558-49AA-BCB5-46634FA3B01E}
+	EndGlobalSection
+EndGlobal
